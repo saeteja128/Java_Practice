@@ -10,6 +10,7 @@ public class functions2 {
             totalCases = B + C;
             days = totalCases - A;
         }
+
         return cases;
     }
 
