@@ -10,10 +10,9 @@ public class functions2 {
             totalCases = B + C;
             days = totalCases - A;
         }
-
         return cases;
     }
-
+    //check
     public static void main(String[] args) {
         functions2 functionInstance = new functions2(); // Create an instance of the class
         int result = functionInstance.solve(5, 3, 1);
